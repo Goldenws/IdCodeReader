@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

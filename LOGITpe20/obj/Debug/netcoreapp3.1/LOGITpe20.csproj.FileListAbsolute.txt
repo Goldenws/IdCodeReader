@@ -1,0 +1,12 @@
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.exe
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.deps.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\bin\Debug\netcoreapp3.1\LOGITpe20.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\LOGITpe20\obj\Debug\netcoreapp3.1\LOGITpe20.genruntimeconfig.cache
