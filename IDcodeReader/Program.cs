@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net;
+using System.Reflection.Metadata.Ecma335;
 
 namespace IDcodeReader
 {
@@ -11,7 +12,9 @@ namespace IDcodeReader
             string usersID = Console.ReadLine();
             if (Validate(usersID))
             {
-                Console.WriteLine("Welcome blyat");
+                HelloUser(usersID);
+                GetYear(usersID);
+
             }
             else
             {
@@ -38,7 +41,7 @@ namespace IDcodeReader
                 }
                 catch(Exception e)
                 {
-                    Console.WriteLine($"Wrong fromar: {e}");
+                    Console.WriteLine($"Wrong fromat: {e}");
                     return false;
                 }
             }
@@ -48,6 +51,37 @@ namespace IDcodeReader
             }
         }
         
+        public static void HelloUser(string idCode)
+        {
+            int firstNum = Int32.Parse(idCode[0].ToString());
+            // || - alt gr + <>
+            if(firstNum == 1 || firstNum == 4 || firstNum == 6)
+            {
+                Console.WriteLine("Hello, Sir!");
+
+            }else if (firstNum == 2 || firstNum == 4 || firstNum == 6)
+            {
+                Console.WriteLine("Hello, Madam!");
+            }
+        }
+
+        public static void GetYear(string idCode)
+        {
+            string yearFromCode = idCode.Substring(1, 2);
+            string year;
+            if (int.Parse(idCode[0].ToString()) > 4)
+            {
+                year = "20" + yearFromCode;
+            }
+            else
+            {
+                year = "19" + yearFromCode;
+        
+            }
+
+            Console.WriteLine($"you were born in {year}");
+
+        }
 
 
         
