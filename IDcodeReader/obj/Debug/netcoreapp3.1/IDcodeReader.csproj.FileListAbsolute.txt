@@ -10,3 +10,4 @@ C:\Users\Roland Strod\source\repos\IDcodeReader\IDcodeReader\obj\Debug\netcoreap
 C:\Users\Roland Strod\source\repos\IDcodeReader\IDcodeReader\obj\Debug\netcoreapp3.1\IDcodeReader.dll
 C:\Users\Roland Strod\source\repos\IDcodeReader\IDcodeReader\obj\Debug\netcoreapp3.1\IDcodeReader.pdb
 C:\Users\Roland Strod\source\repos\IDcodeReader\IDcodeReader\obj\Debug\netcoreapp3.1\IDcodeReader.genruntimeconfig.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\IDcodeReader\obj\Debug\netcoreapp3.1\IDcodeReader.csprojAssemblyReference.cache

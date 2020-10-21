@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.exe
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.deps.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\bin\Debug\netcoreapp3.1\CVVValidation.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.dll
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.pdb
+C:\Users\Roland Strod\source\repos\IDcodeReader\CVVValidation\obj\Debug\netcoreapp3.1\CVVValidation.genruntimeconfig.cache

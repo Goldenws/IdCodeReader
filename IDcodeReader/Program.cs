@@ -65,8 +65,9 @@ namespace IDcodeReader
             }
         }
 
-        public static void GetYear(string idCode)
+        public static int GetYear(string idCode)
         {
+
             string yearFromCode = idCode.Substring(1, 2);
             string year;
             if (int.Parse(idCode[0].ToString()) > 4)
@@ -80,21 +81,24 @@ namespace IDcodeReader
             }
 
             Console.WriteLine($"you were born in {year}");
-
+            int yearPassed = Int32.Parse(year);
+           
+            return yearPassed;
+    
         }
 
+        public static void GetAge(string idCode)
+        {
+            int yearOfBirth = GetYear(idCode);
 
-        
+            DateTime now = DateTime.Now;
+            int yearNow = Int32.Parse(now.Year.ToString());
+            int age = yearNow - yearOfBirth;
+            Console.WriteLine($"you are{age} years old.");
 
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+        }
     }
+
 }
